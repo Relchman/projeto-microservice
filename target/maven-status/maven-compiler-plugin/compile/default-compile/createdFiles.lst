@@ -1,0 +1,8 @@
+br\com\microservice\pagamentos\controller\PagamentoController.class
+br\com\microservice\pagamentos\model\Status.class
+br\com\microservice\pagamentos\repository\PagamentoRepository.class
+br\com\microservice\pagamentos\PagamentosApplication.class
+br\com\microservice\pagamentos\dto\PagamentoDto.class
+br\com\microservice\pagamentos\ServletInitializer.class
+br\com\microservice\pagamentos\service\PagamentoService.class
+br\com\microservice\pagamentos\model\Pagamento.class
